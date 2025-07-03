@@ -141,4 +141,4 @@ Designed for scalability and maintainability
 
 
 🖼️ Screenshots
-![alt text](image.png)
+![alt text](frontend/image.png)
