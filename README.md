@@ -142,3 +142,4 @@ Designed for scalability and maintainability
 
 🖼️ Screenshots
 ![alt text](frontend/image.png)
+C:\Users\Nikit\Downloads\logIngestionAndQuerySystem\frontend\image.png
